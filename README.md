@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my friend 👋
 
 - 🔭 I am currently working with React, Node and Serverless
 - 🌱 I’m currently learning NextJS
